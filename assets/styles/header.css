@@ -1,0 +1,22 @@
+header {
+    background-color: white;
+}
+
+.container {
+    padding: 20px;
+    border-radius: 0 0 16px 16px;
+    box-shadow: 0 4px 2px 0 gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logout-button {
+    padding: 10px;
+    border: none;
+    background-color: #f44336;
+    color: white;
+    cursor: pointer;
+    border-radius: 12px;
+    text-decoration: none;
+}
